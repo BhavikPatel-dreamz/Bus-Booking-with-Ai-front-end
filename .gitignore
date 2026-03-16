@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime/Build
+.env*
+.env.test
+.next
+dist
+coverage/
+
+# Tools/IDE
+.npm
+.eslintcache
+.yarn/
+backend/.env
+backend/.env
+frontend/.env
+temp_auto_push.bat
+temp_interactive_push.bat
